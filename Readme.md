@@ -1,1 +1,1 @@
-## React Native Expo App 
+## React Native Expo App -- Building Something Useful
